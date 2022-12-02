@@ -1,0 +1,10 @@
+<article>
+  <header>
+    <h1>A heading 1</h1>
+    <h1>A heading 2</h1>
+    <h1>A heading 3</h1>
+    <p>Posted by vitalap</p>
+    <p>It is assignment one</p>
+  </header>
+  <img src="assment.jpg" alt="Header file added">
+</article>
